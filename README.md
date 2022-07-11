@@ -56,4 +56,11 @@ The function of this unit  is to produce the correct values for all the control 
 ![Datapath](https://user-images.githubusercontent.com/91975571/178344632-7eb617fd-c3a1-44f4-8609-2d469495bfdc.png)
 
 
+# Additional info
+- To simulate the full 32-bit design we need to create a “board wrapper” VHDL file for implementation is is a port the the original entity
+- The datapath was fulfilled using VHDL components and port mapping
+- The simulation of the entities was done in simuLink as shows below(for register file)
+
+[regfile_results.pdf](https://github.com/Danikh25/MIPS-CPU/files/9087151/regfile_results.pdf)
+
 
