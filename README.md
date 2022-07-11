@@ -59,7 +59,7 @@ The function of this unit  is to produce the correct values for all the control 
 # Additional info
 - To simulate the full 32-bit design we need to create a “board wrapper” VHDL file for implementation is is a port the the original entity
 - The datapath was fulfilled using VHDL components and port mapping
-- The simulation of the entities was done in simuLink as shows below(for register file)
+- The simulation of the entities was done in ModelSim as shows below(for register file)
 
 ![ps](https://user-images.githubusercontent.com/91975571/178346736-86f4dcc2-9e88-4bfe-b6c1-0be615767ba8.png)
 
