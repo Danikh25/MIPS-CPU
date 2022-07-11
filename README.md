@@ -52,7 +52,7 @@ types of sign extension
 # 9) Control unit 
 The function of this unit  is to produce the correct values for all the control signals at the proper point in time. Tables 1 and 2 lists the 10 control signals and summarizes their operation.
 
-The complete datapath is shown in the figure below
+:arrow_forward: The complete datapath is shown in the figure below
 ![Datapath](https://user-images.githubusercontent.com/91975571/178344632-7eb617fd-c3a1-44f4-8609-2d469495bfdc.png)
 
 
